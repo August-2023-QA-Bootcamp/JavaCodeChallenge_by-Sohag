@@ -7,7 +7,7 @@ package day1;
 
 //use System.out.println()
 
-public class D1_PrintNameVertically {
+public class D1_1_PrintNameVertically {
 
 	public static void main(String[] args) {
 		String name="Arman";	

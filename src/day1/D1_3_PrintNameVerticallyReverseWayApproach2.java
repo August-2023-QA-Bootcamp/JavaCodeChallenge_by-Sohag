@@ -6,7 +6,7 @@ package day1;
 //length()
 //focus on charAt()---what index number you are passing
 
-public class D1_PrintNameVerticallyReverseWayApproach2 {
+public class D1_3_PrintNameVerticallyReverseWayApproach2 {
 
 	public static void main(String[] args) {
 		String name="Arman";	

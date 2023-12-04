@@ -5,8 +5,6 @@ public class D1_countVowelsFromTheString {
 	
 /*Q: ******Write a method to find the number of vowels from a String? —converting to lower or upper space  & counting only ‘a’ ‘e’ ‘i’ ‘o’ ‘u’ [ converting to lower or upper space
 They will not mention any approach]
-
-
 -create the method which will count vowels(static, void, takes string arg)
 -declare a count variable
 -loop through every char
@@ -16,7 +14,6 @@ They will not mention any approach]
 -put the string in a String variable  in the main()
 -call the method which will count vowels
 */
-
 	//create the method
 	public static void printTotalVowels(String str) {
 		
