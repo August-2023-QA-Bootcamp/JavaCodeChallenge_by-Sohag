@@ -27,8 +27,9 @@ public class D3_10_DuplicateCharWithCount {
 			
 		}
 		
-		
+		//getting all the keys
 		Set<Character> chars=dupChar.keySet();
+		
 		
 		//System.out.println(dupChar);
 		
