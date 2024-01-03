@@ -35,7 +35,7 @@ public class D4_3_1_PrintAllPrimeNumberUptoN {
 	
 	
 	public static void main(String[] args) {
-		printAllPrimeNumbers(20);
+		printAllPrimeNumbers(100);
 		
 	}
 

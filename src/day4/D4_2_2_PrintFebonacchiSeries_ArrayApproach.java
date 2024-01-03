@@ -2,6 +2,10 @@ package day4;
 
 import java.util.Arrays;
 
+
+
+
+
 public class D4_2_2_PrintFebonacchiSeries_ArrayApproach {
 
 	public static void printFebonacchiSeries(int n) {

@@ -27,14 +27,20 @@ public class D4_3_1_StoreAllPrimeNumbersInAnArray {
 		int count=0;
 		int[] allPrimeNumber=new int[y];
 		
+		
 		for(int j=0;j<=y;j++) {
 			if(checkPrimeNumber(j)) {
 				
 				allPrimeNumber[j]=j;
-			
+						
+				
 			}	
 			
 		}
+		
+		
+		//System.out.println(Arrays.toString(allPrimeNumber));
+			
 		
 		//System.out.println(Arrays.toString(allPrimeNumber));
 		
@@ -51,7 +57,7 @@ public class D4_3_1_StoreAllPrimeNumbersInAnArray {
 	}
 	
 	public static void main(String[] args) {
-		printCountOfAllPrimeNumbers(20);
+		printCountOfAllPrimeNumbers(100);
 		
 	}
 
